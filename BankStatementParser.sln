@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Core", "BSP.Core\BSP.Core.csproj", "{8E570742-66D3-4CFA-8B08-64FE61BF59F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSP.Core.Tests", "BSP.Core.Tests\BSP.Core.Tests.csproj", "{42E6BB58-3769-46B5-8F90-43A0E9BDCAF4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{3E81E3A0-B910-4EB0-ACD5-84F2D2731B0E}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E570742-66D3-4CFA-8B08-64FE61BF59F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E570742-66D3-4CFA-8B08-64FE61BF59F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E570742-66D3-4CFA-8B08-64FE61BF59F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E570742-66D3-4CFA-8B08-64FE61BF59F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42E6BB58-3769-46B5-8F90-43A0E9BDCAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42E6BB58-3769-46B5-8F90-43A0E9BDCAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42E6BB58-3769-46B5-8F90-43A0E9BDCAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42E6BB58-3769-46B5-8F90-43A0E9BDCAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
